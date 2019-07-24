@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dblimagan">
+  <DataContextMoniker Name="/dblimaganDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b161d3b6-1bf5-442c-9f03-95194e0b3b28" absoluteBounds="4.625, 2.25, 2, 2.7176639811197916">
+      <DataClassMoniker Name="/dblimaganDataContext/Calendar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9ef39cfc-adb3-44c4-a617-45144e08588c" absoluteBounds="4.64, 2.71, 1.9700000000000002, 2.1576639811197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

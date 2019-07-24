@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- 手工修改本配置，需重启服务器. -->
+<Job18>
+  <hibernate.connection.provider Value="NHibernate.Connection.DriverConnectionProvider" />
+  <hibernate.dialect Value="NHibernate.Dialect.MsSql2005Dialect" />
+  <hibernate.connection.driver_class Value="NHibernate.Driver.SqlClientDriver" />
+  <!--工作通 系统数据库 连接字符串 start (用户名uid,密码pwd. 请酌情修改)-->
+  
+  
+  <!--<hibernate.connection.connection_string Value="Server=linjie1\lj;initial catalog=oa;uid=sa;pwd=113356965;Max Pool Size=10000;Min Pool Size=13;" />-->
+  <hibernate.connection.connection_string Value="Server=LINJIE-PC\SQLEXPRESSSB;initial catalog=oa;uid=sa;pwd=113356965;Max Pool Size=10000;Min Pool Size=13;" />
+
+
+
+  <!--工作通 系统数据库 连接字符串 end-->
+  <hibernate.cache.provider_class Value="NHibernate.Cache.HashtableCacheProvider" />
+  <hibernate.cache.use_query_cache Value="true" />
+</Job18>

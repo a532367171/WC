@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67738B25-9E82-40C7-A7B9-56D0CEBF31F1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WC.IDAL</RootNamespace>
+    <AssemblyName>WC.IDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IBas_Com.cs" />
+    <Compile Include="ICalendarMemo_Calendars.cs" />
+    <Compile Include="ICRM.cs" />
+    <Compile Include="ICRM_Contact.cs" />
+    <Compile Include="ICRM_Sup.cs" />
+    <Compile Include="IDocs_Doc.cs" />
+    <Compile Include="IDocs_DocType.cs" />
+    <Compile Include="IFlows.cs" />
+    <Compile Include="IFlows_Doc.cs" />
+    <Compile Include="IFlows_Model.cs" />
+    <Compile Include="IFlows_ModelFile.cs" />
+    <Compile Include="IFlows_ModelStep.cs" />
+    <Compile Include="IFlows_Model_Type.cs" />
+    <Compile Include="IFlows_Step.cs" />
+    <Compile Include="IFlows_StepAction.cs" />
+    <Compile Include="IGov.cs" />
+    <Compile Include="IGov_Doc.cs" />
+    <Compile Include="IGov_Model.cs" />
+    <Compile Include="IGov_ModelFile.cs" />
+    <Compile Include="IGov_ModelStep.cs" />
+    <Compile Include="IGov_Model_Type.cs" />
+    <Compile Include="IGov_Recipient.cs" />
+    <Compile Include="IGov_Step.cs" />
+    <Compile Include="IGov_StepAction.cs" />
+    <Compile Include="IMails.cs" />
+    <Compile Include="IMails_Detail.cs" />
+    <Compile Include="IMeeting.cs" />
+    <Compile Include="INews_Article.cs" />
+    <Compile Include="INews_Type.cs" />
+    <Compile Include="INoteBook.cs" />
+    <Compile Include="IPaper.cs" />
+    <Compile Include="IPaperDownload.cs" />
+    <Compile Include="IPaperType.cs" />
+    <Compile Include="IPhoneBook.cs" />
+    <Compile Include="ISms_Data.cs" />
+    <Compile Include="ISys_Dep.cs" />
+    <Compile Include="ISys_Dep_Module.cs" />
+    <Compile Include="ISys_Module.cs" />
+    <Compile Include="ISys_Role.cs" />
+    <Compile Include="ISys_Role_Module.cs" />
+    <Compile Include="ISys_Seal.cs" />
+    <Compile Include="ISys_User.cs" />
+    <Compile Include="ISys_UserLogin.cs" />
+    <Compile Include="ITasks.cs" />
+    <Compile Include="ITasks_Type.cs" />
+    <Compile Include="ITasks_User.cs" />
+    <Compile Include="ITips.cs" />
+    <Compile Include="IVote.cs" />
+    <Compile Include="IVoteDetail.cs" />
+    <Compile Include="IWorkLog.cs" />
+    <Compile Include="IWork_Attend.cs" />
+    <Compile Include="IWork_AttendSet.cs" />
+    <Compile Include="IZEX2.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{d0b9475b-2a3b-46b0-b635-86d5c14ee2b4}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" default-lazy="false">
+  <class name="WC.Model.Calendars, WC.Model" table="Calendar" >
+    <id name="ID" column="ID" type="Int32"  length="4" unsaved-value="0">
+      <generator class="identity" />
+    </id>
+    <property name="ID" column="ID" type="Int32" length="4" />
+    <property name="UID" column="UID" type="String" />
+    <property name="EID" column="EID" type="String" />
+
+    <property name="EName" column="EName" type="String" />
+
+    <property name="STime" column="STime" type="String" />
+
+    <property name="ETime" column="ETime" type="String" />
+
+    <property name="CTime" column="CTime" type="String" />
+    <property name="MTime" column="MTime" type="String" />
+
+    <property name="LogicDelete" column="LogicDelete" type="Int32" length="4" />
+
+    <property name="MEMO" column="MEMO" type="String" />
+
+
+  </class>
+
+</hibernate-mapping>

@@ -1,0 +1,723 @@
+﻿[2015-07-31 17:46:25] Service Initialize.
+[2015-07-31 17:46:25] Write Cache: Count = 0
+[2015-07-31 17:46:37] New Session:SessionID = "082BE95F-1FC9-433D-ADAD-14D1EAD6D944", UserID='100001'
+[2015-07-31 17:46:37] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 17:46:37
+[2015-07-31 17:48:37] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 17:48:37] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 17:48:37
+[2015-07-31 17:50:11] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 17:49:37
+[2015-07-31 17:50:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 17:51:37] Clear Sessions Timer:Clear = "(100001,082BE95F-1FC9-433D-ADAD-14D1EAD6D944)"
+[2015-07-31 17:53:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 17:55:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 17:57:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:00:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:02:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:25:47] Service Initialize.
+[2015-07-31 18:25:47] Write Cache: Count = 0
+[2015-07-31 18:25:47] Write Cache: Count = 0
+[2015-07-31 18:25:47] Application End
+[2015-07-31 18:25:48] Service Initialize.
+[2015-07-31 18:25:48] Write Cache: Count = 0
+[2015-07-31 18:26:02] New Session:SessionID = "043DE664-0FAF-478F-80C9-219BA0F2B4B6", UserID='100003'
+[2015-07-31 18:26:02] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:26:02
+[2015-07-31 18:28:02] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 18:28:02] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:28:02
+[2015-07-31 18:28:42] Exception:用户(或群组) "lil" 不存在！
+   在 Common_CH.Process() 位置 c:\liantiangongju1\Core.Web\CommandHandler\Common_CH.cs:行号 367
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\liantiangongju1\Core\SendCommandHandler.cs:行号 45
+[2015-07-31 18:29:06] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:29:03
+[2015-07-31 18:29:37] Service Initialize.
+[2015-07-31 18:29:37] Write Cache: Count = 0
+[2015-07-31 18:29:47] New Session:SessionID = "A52097A9-7790-4062-9EA0-A3EA95CEC41C", UserID='100002'
+[2015-07-31 18:29:47] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 18:29:47
+[2015-07-31 18:30:56] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 18:30:47
+[2015-07-31 18:40:10] Service Initialize.
+[2015-07-31 18:40:10] Write Cache: Count = 0
+[2015-07-31 18:40:22] New Session:SessionID = "148D7F10-E6B6-4A77-A33B-FFAD3A052D23", UserID='100003'
+[2015-07-31 18:40:22] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:40:22
+[2015-07-31 18:42:22] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 18:42:22] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:42:22
+[2015-07-31 18:43:18] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 18:42:22
+[2015-07-31 18:44:22] Clear Sessions Timer:Clear = "(100003,148D7F10-E6B6-4A77-A33B-FFAD3A052D23)"
+[2015-07-31 18:44:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:47:02] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:49:22] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:51:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:52:02] Write Cache: Count = 0
+[2015-07-31 18:52:02] Application End
+[2015-07-31 18:52:40] Service Initialize.
+[2015-07-31 18:52:40] Write Cache: Count = 0
+[2015-07-31 18:52:54] New Session:SessionID = "A5AB8A74-511F-4B4E-B0E9-EF6903727E5E", UserID='100001'
+[2015-07-31 18:52:54] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 18:52:54
+[2015-07-31 18:53:16] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 18:52:54
+[2015-07-31 18:53:24] Service Initialize.
+[2015-07-31 18:53:24] Write Cache: Count = 0
+[2015-07-31 18:53:34] New Session:SessionID = "A0253B0D-D841-4C8D-8E1F-5627E7137C72", UserID='3'
+[2015-07-31 18:53:34] UpdateLastAccessTime: UserID = 3, LastAccessTime = 2015-07-31 18:53:34
+[2015-07-31 18:53:52] UpdateLastAccessTime: UserID = 3, LastAccessTime = 2015-07-31 18:53:35
+[2015-07-31 18:54:00] New Session:SessionID = "41F8D2BD-0366-4067-83C6-037616B23A52", UserID='100001'
+[2015-07-31 18:54:00] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 18:54:00
+[2015-07-31 18:54:20] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 18:54:00
+[2015-07-31 18:55:34] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 18:55:54] Clear Sessions Timer:Clear = "(3,A0253B0D-D841-4C8D-8E1F-5627E7137C72)"
+[2015-07-31 18:56:14] Clear Sessions Timer:Clear = "(100001,41F8D2BD-0366-4067-83C6-037616B23A52)"
+[2015-07-31 18:57:54] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:00:14] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:02:34] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:04:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:07:15] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:09:35] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:11:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:14:15] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:16:35] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:18:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:21:15] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:23:35] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:25:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:28:15] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:30:35] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:32:56] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:35:16] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:37:36] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:39:56] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:42:16] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:44:36] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:46:56] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:49:16] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:51:36] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:53:24] Write Cache: MaxCreatedTime = 2015-07-31 18:53:46, Count = 1
+[2015-07-31 19:53:56] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:56:16] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 19:58:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:00:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:03:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:05:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:07:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:10:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:12:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:14:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:17:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:19:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:21:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:24:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:26:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:28:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:31:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:33:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:35:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:38:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:40:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:42:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:45:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:47:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:49:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:52:19] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 20:53:24] Write Cache: Count = 0
+[2015-07-31 20:53:47] Service Initialize.
+[2015-07-31 20:53:47] Write Cache: Count = 0
+[2015-07-31 20:54:00] New Session:SessionID = "B9A8C501-C1B5-4C47-AD83-DDCEDD6559AE", UserID='100001'
+[2015-07-31 20:54:00] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:54:00
+[2015-07-31 20:54:07] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:54:00
+[2015-07-31 20:54:16] New Session:SessionID = "C24169CD-D1A9-4E92-939D-74A62FC05367", UserID='100001'
+[2015-07-31 20:54:16] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:54:16
+[2015-07-31 20:54:59] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:54:17
+[2015-07-31 20:55:23] Service Initialize.
+[2015-07-31 20:55:23] Write Cache: Count = 0
+[2015-07-31 20:55:38] New Session:SessionID = "DDD8CBC6-02E7-4836-B9C7-1A61D662D467", UserID='100002'
+[2015-07-31 20:55:38] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 20:55:38
+[2015-07-31 20:55:51] New Session:SessionID = "DFFA3D55-06E2-42DA-A2D5-44A1712222F9", UserID='100001'
+[2015-07-31 20:55:51] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:55:51
+[2015-07-31 20:56:59] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 20:56:45
+[2015-07-31 20:57:38] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 20:57:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 20:57:58
+[2015-07-31 20:58:58] Clear Sessions Timer:Clear = "(100001,DFFA3D55-06E2-42DA-A2D5-44A1712222F9)"
+[2015-07-31 20:59:58] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 20:59:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 20:59:58
+[2015-07-31 21:01:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:01:58
+[2015-07-31 21:02:18] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 21:03:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:03:58
+[2015-07-31 21:04:38] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 21:05:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:05:58
+[2015-07-31 21:06:58] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 21:07:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:07:58
+[2015-07-31 21:09:18] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 21:09:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:09:58
+[2015-07-31 21:11:38] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 21:11:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:11:58
+[2015-07-31 21:12:48] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:11:58
+[2015-07-31 21:12:56] New Session:SessionID = "A39FCA13-D8FE-4F63-BBBF-1D5AE85B3D38", UserID='100002'
+[2015-07-31 21:12:56] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:12:56
+[2015-07-31 21:13:04] New Session:SessionID = "A943E2E2-761C-414C-9F1A-F323CC691BB5", UserID='100003'
+[2015-07-31 21:13:04] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:13:04
+[2015-07-31 21:13:05] Reset Session:SessionID = "A39FCA13-D8FE-4F63-BBBF-1D5AE85B3D38", UserID='100003'
+[2015-07-31 21:13:05] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:13:05
+[2015-07-31 21:13:09] New Session:SessionID = "63FBC0AA-E6EC-4D86-B7B8-0AEECB30274E", UserID='100003'
+[2015-07-31 21:13:09] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:13:09
+[2015-07-31 21:13:48] New Session:SessionID = "CFF77E96-D1C2-48D0-B5B3-201A09C1842E", UserID='100002'
+[2015-07-31 21:13:48] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:13:48
+[2015-07-31 21:13:56] New Session:SessionID = "D011E240-EF5E-4C53-9722-918444859609", UserID='100001'
+[2015-07-31 21:13:56] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 21:13:56
+[2015-07-31 21:13:57] Reset Session:SessionID = "CFF77E96-D1C2-48D0-B5B3-201A09C1842E", UserID='100001'
+[2015-07-31 21:13:57] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 21:13:57
+[2015-07-31 21:13:58] Clear Sessions Timer:Clear = "(100002,DDD8CBC6-02E7-4836-B9C7-1A61D662D467)"
+[2015-07-31 21:13:58] All Sessions: Account Count = 3, Session Count = 4
+[2015-07-31 21:14:05] New Session:SessionID = "059F7710-BF0F-475E-93E5-96051ED0789B", UserID='100003'
+[2015-07-31 21:14:05] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:14:05
+[2015-07-31 21:14:06] Reset Session:SessionID = "CFF77E96-D1C2-48D0-B5B3-201A09C1842E", UserID='100003'
+[2015-07-31 21:14:06] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:14:06
+[2015-07-31 21:14:06] Reset Session:SessionID = "D011E240-EF5E-4C53-9722-918444859609", UserID='100003'
+[2015-07-31 21:14:06] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:14:06
+[2015-07-31 21:14:58] Clear Sessions Timer:Clear = "(100002,A39FCA13-D8FE-4F63-BBBF-1D5AE85B3D38)"
+[2015-07-31 21:15:18] Clear Sessions Timer:Clear = "(100003,A943E2E2-761C-414C-9F1A-F323CC691BB5),(100003,A39FCA13-D8FE-4F63-BBBF-1D5AE85B3D38),(100003,63FBC0AA-E6EC-4D86-B7B8-0AEECB30274E)"
+[2015-07-31 21:15:37] Write Cache: MaxCreatedTime = 2015-07-31 21:15:15, Count = 17
+[2015-07-31 21:15:38] Write Cache: Count = 0
+[2015-07-31 21:15:38] Write Cache: Count = 0
+[2015-07-31 21:15:58] Clear Sessions Timer:Clear = "(100002,CFF77E96-D1C2-48D0-B5B3-201A09C1842E),(100001,D011E240-EF5E-4C53-9722-918444859609),(100001,CFF77E96-D1C2-48D0-B5B3-201A09C1842E)"
+[2015-07-31 21:15:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-07-31 21:13:48
+[2015-07-31 21:15:58] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 21:13:58
+[2015-07-31 21:16:18] All Sessions: Account Count = 1, Session Count = 2
+[2015-07-31 21:17:18] Clear Sessions Timer:Clear = "(100003,D011E240-EF5E-4C53-9722-918444859609),(100003,CFF77E96-D1C2-48D0-B5B3-201A09C1842E),(100003,059F7710-BF0F-475E-93E5-96051ED0789B)"
+[2015-07-31 21:17:18] UpdateLastAccessTime: UserID = 100003, LastAccessTime = 2015-07-31 21:15:16
+[2015-07-31 21:50:44] Service Initialize.
+[2015-07-31 21:50:44] Write Cache: Count = 0
+[2015-07-31 21:55:00] NullReferenceException:
+   在 Core.Web.EmbedCS.ProcessRequest(HttpContext context) 位置 c:\liantiangongju1\EmbedCS\EmbedCode\EmbedCS.cs:行号 34
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+[2015-07-31 21:55:23] NullReferenceException:
+   在 Core.Web.EmbedCS.ProcessRequest(HttpContext context) 位置 c:\liantiangongju1\EmbedCS\EmbedCode\EmbedCS.cs:行号 34
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+[2015-07-31 21:59:53] NullReferenceException:
+   在 Core.Web.EmbedCS.ProcessRequest(HttpContext context) 位置 c:\liantiangongju1\EmbedCS\EmbedCode\EmbedCS.cs:行号 34
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+[2015-07-31 22:00:19] Service Initialize.
+[2015-07-31 22:00:19] Write Cache: Count = 0
+[2015-07-31 22:04:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:06:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:10:14] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:12:35] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:14:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:17:15] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:22:26] Service Initialize.
+[2015-07-31 22:22:26] Write Cache: Count = 0
+[2015-07-31 22:27:47] Service Initialize.
+[2015-07-31 22:27:47] Write Cache: Count = 0
+[2015-07-31 22:29:36] Service Initialize.
+[2015-07-31 22:29:36] Write Cache: Count = 0
+[2015-07-31 22:30:14] New Session:SessionID = "C2B5C09D-FA59-45F0-B92F-C80F43BCA0EC", UserID='100004'
+[2015-07-31 22:30:21] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-07-31 22:30:21
+[2015-07-31 22:31:40] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 22:32:40] Clear Sessions Timer:Clear = "(100004,C2B5C09D-FA59-45F0-B92F-C80F43BCA0EC)"
+[2015-07-31 22:32:40] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-07-31 22:30:26
+[2015-07-31 22:34:00] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 22:36:19] Service Initialize.
+[2015-07-31 22:36:19] Write Cache: Count = 0
+[2015-07-31 22:36:23] New Session:SessionID = "36909BC9-58A4-4747-B098-E18A3798111A", UserID='100004'
+[2015-07-31 22:36:23] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-07-31 22:36:23
+[2015-07-31 22:36:28] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-07-31 22:36:23
+[2015-07-31 22:51:04] Service Initialize.
+[2015-07-31 22:51:04] Write Cache: Count = 0
+[2015-07-31 22:51:32] Service Initialize.
+[2015-07-31 22:51:32] Write Cache: Count = 0
+[2015-07-31 23:01:20] Service Initialize.
+[2015-07-31 23:01:31] Write Cache: Count = 0
+[2015-07-31 23:02:03] New Session:SessionID = "74286767-4218-4274-8F22-BA4BE657F575", UserID='100001'
+[2015-07-31 23:02:04] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 23:02:04
+[2015-07-31 23:04:03] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 23:04:23] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 23:04:23
+[2015-07-31 23:06:23] All Sessions: Account Count = 1, Session Count = 1
+[2015-07-31 23:07:44] Clear Sessions Timer:Clear = "(100001,74286767-4218-4274-8F22-BA4BE657F575)"
+[2015-07-31 23:07:44] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-07-31 23:05:24
+[2015-07-31 23:08:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:11:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:13:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:15:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:18:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:20:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:22:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:25:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:27:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:29:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:32:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:34:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:36:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:39:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:41:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:43:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:46:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:48:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:50:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:53:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:55:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-07-31 23:57:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:00:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:01:31] Write Cache: Count = 0
+[2015-08-01 00:02:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:04:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:07:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:09:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:11:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:14:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:16:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:18:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:21:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:23:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 00:25:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 09:53:54] Service Initialize.
+[2015-08-01 09:54:18] Write Cache: Count = 0
+[2015-08-01 10:00:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 10:02:50] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 10:09:26] Service Initialize.
+[2015-08-01 10:09:35] Write Cache: Count = 0
+[2015-08-01 10:12:02] New Session:SessionID = "EB948991-0792-4E52-B563-858C7D38D59A", UserID='100005'
+[2015-08-01 10:12:02] UpdateLastAccessTime: UserID = 100005, LastAccessTime = 2015-08-01 10:12:02
+[2015-08-01 10:12:05] UpdateLastAccessTime: UserID = 100005, LastAccessTime = 2015-08-01 10:12:03
+[2015-08-01 10:12:20] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 10:14:35] Clear Sessions Timer:Clear = "(100005,EB948991-0792-4E52-B563-858C7D38D59A)"
+[2015-08-01 11:39:14] Write Cache: Count = 0
+[2015-08-01 11:40:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 11:42:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 11:43:39] Service Initialize.
+[2015-08-01 11:43:39] Write Cache: Count = 0
+[2015-08-01 11:46:42] New Session:SessionID = "2BD927C4-F3B5-4441-8D97-42CAE17B8B7D", UserID='100001'
+[2015-08-01 11:46:42] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:46:42
+[2015-08-01 11:47:43] New Session:SessionID = "2D08B7B1-7243-4E25-8DB0-973CD3A74B51", UserID='100001'
+[2015-08-01 11:47:43] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:47:43
+[2015-08-01 11:48:06] New Session:SessionID = "1EF7C037-112C-4B7D-BD1B-BAE6AF7D3CAC", UserID='100001'
+[2015-08-01 11:48:06] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:48:06
+[2015-08-01 11:48:09] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-01 11:48:28] New Session:SessionID = "1EB37801-CF47-4B0D-BF22-3BF83842974A", UserID='100001'
+[2015-08-01 11:48:28] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:48:28
+[2015-08-01 11:48:36] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:48:29
+[2015-08-01 11:48:52] Clear Sessions Timer:Clear = "(100001,2BD927C4-F3B5-4441-8D97-42CAE17B8B7D)"
+[2015-08-01 11:49:44] Service Initialize.
+[2015-08-01 11:49:44] Write Cache: Count = 0
+[2015-08-01 11:50:07] New Session:SessionID = "4D27302D-AE07-4334-AE49-C6496D59464B", UserID='100001'
+[2015-08-01 11:50:07] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:50:07
+[2015-08-01 11:50:14] New Session:SessionID = "942B0C5E-B0DF-41C3-B65B-AFA53D65C116", UserID='100001'
+[2015-08-01 11:50:14] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:50:14
+[2015-08-01 11:50:18] New Session:SessionID = "99079CB4-A3E0-408A-870E-3535BC61AE30", UserID='100001'
+[2015-08-01 11:50:18] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:50:18
+[2015-08-01 11:52:07] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-01 11:52:27] Clear Sessions Timer:Clear = "(100001,4D27302D-AE07-4334-AE49-C6496D59464B),(100001,942B0C5E-B0DF-41C3-B65B-AFA53D65C116),(100001,99079CB4-A3E0-408A-870E-3535BC61AE30)"
+[2015-08-01 11:52:27] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:50:18
+[2015-08-01 11:54:28] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 11:56:09] Service Initialize.
+[2015-08-01 11:56:09] Write Cache: Count = 0
+[2015-08-01 11:56:09] New Session:SessionID = "45D6641D-5581-40E7-8A00-111E8F2510D1", UserID='100001'
+[2015-08-01 11:56:09] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:56:09
+[2015-08-01 11:56:13] New Session:SessionID = "49E27533-BB00-4B33-B9DE-6D91FA745A96", UserID='100001'
+[2015-08-01 11:56:13] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:56:13
+[2015-08-01 11:56:16] New Session:SessionID = "23F9EB77-17C1-4C2A-ABC5-D05848D28938", UserID='100001'
+[2015-08-01 11:56:16] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:56:16
+[2015-08-01 11:56:20] New Session:SessionID = "A30B13D2-C84F-415A-8AEA-4E82975FF3D2", UserID='100001'
+[2015-08-01 11:56:20] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:56:20
+[2015-08-01 11:56:29] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:56:20
+[2015-08-01 11:57:17] Service Initialize.
+[2015-08-01 11:57:17] Write Cache: Count = 0
+[2015-08-01 11:57:18] New Session:SessionID = "F4670AAB-8073-45DA-B163-CFB5B7A89C73", UserID='100001'
+[2015-08-01 11:57:18] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:57:18
+[2015-08-01 11:57:22] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 11:57:18
+[2015-08-01 11:59:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 11:59:38] Clear Sessions Timer:Clear = "(100001,F4670AAB-8073-45DA-B163-CFB5B7A89C73)"
+[2015-08-01 12:13:01] Service Initialize.
+[2015-08-01 12:13:01] Write Cache: Count = 0
+[2015-08-01 12:13:01] New Session:SessionID = "84E4D90C-A41D-4855-BDAE-9D118F62F138", UserID='100001'
+[2015-08-01 12:13:01] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 12:13:01
+[2015-08-01 12:13:30] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-01 12:13:02
+[2015-08-01 12:15:01] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:15:21] Clear Sessions Timer:Clear = "(100001,84E4D90C-A41D-4855-BDAE-9D118F62F138)"
+[2015-08-01 12:17:22] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:19:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:22:02] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:24:22] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:26:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:29:02] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:31:22] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:33:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:36:02] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:38:22] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:40:42] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:43:03] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:45:23] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:47:43] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:50:03] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:52:23] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:54:43] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:57:03] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 12:59:23] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:01:43] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:04:03] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:06:23] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:08:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:11:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:13:01] Write Cache: Count = 0
+[2015-08-01 13:13:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:15:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:18:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:20:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:22:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:25:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:27:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:29:44] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:32:04] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:34:24] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:36:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:39:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:41:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:43:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:46:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:48:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:50:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:53:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:55:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 13:57:45] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:00:05] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:02:25] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:04:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:07:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:09:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:11:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:13:01] Write Cache: Count = 0
+[2015-08-01 14:14:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:16:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:18:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:21:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:23:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:25:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:28:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:30:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:32:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:35:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:37:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:39:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:42:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:44:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:46:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:49:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:51:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:53:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:56:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 14:58:28] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:00:48] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:03:08] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:05:28] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:07:48] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:10:08] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:12:28] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:13:01] Write Cache: Count = 0
+[2015-08-01 15:14:48] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:17:08] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:19:28] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:21:48] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:24:08] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:26:29] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:28:49] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:31:09] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:33:29] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:35:49] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:38:09] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:40:29] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:42:49] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:45:09] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:47:29] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:49:49] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:52:09] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:54:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:56:50] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 15:59:10] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:01:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:03:50] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:06:10] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:08:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:10:50] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:13:01] Write Cache: Count = 0
+[2015-08-01 16:13:10] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 16:15:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-01 23:33:26] Service Initialize.
+[2015-08-01 23:33:26] Write Cache: Count = 0
+[2015-08-01 23:34:37] New Session:SessionID = "ED37B4A9-E8C8-4D53-A001-65CC9ABDB36F", UserID='100006'
+[2015-08-01 23:34:37] UpdateLastAccessTime: UserID = 100006, LastAccessTime = 2015-08-01 23:34:37
+[2015-08-04 18:15:34] Service Initialize.
+[2015-08-04 18:15:34] Write Cache: Count = 0
+[2015-08-04 18:43:53] Service Initialize.
+[2015-08-04 18:43:53] Write Cache: Count = 0
+[2015-08-04 18:47:23] Service Initialize.
+[2015-08-04 18:47:23] Write Cache: Count = 0
+[2015-08-04 20:00:20] Service Initialize.
+[2015-08-04 20:00:20] Write Cache: Count = 0
+[2015-08-04 20:07:26] Service Initialize.
+[2015-08-04 20:07:26] Write Cache: Count = 0
+[2015-08-05 08:50:51] Service Initialize.
+[2015-08-05 08:50:51] Write Cache: Count = 0
+[2015-08-05 12:07:53] Write Cache: Count = 0
+[2015-08-05 12:47:55] Service Initialize.
+[2015-08-05 12:47:55] Write Cache: Count = 0
+[2015-08-05 12:55:10] Service Initialize.
+[2015-08-05 12:55:10] Write Cache: Count = 0
+[2015-08-05 12:56:58] Service Initialize.
+[2015-08-05 12:56:58] Write Cache: Count = 0
+[2015-08-05 13:56:58] Write Cache: Count = 0
+[2015-08-05 15:01:09] Service Initialize.
+[2015-08-05 15:01:09] Write Cache: Count = 0
+[2015-08-05 15:02:38] New Session:SessionID = "E5FCF7BE-6BD8-4F15-9DD8-1BEEB11DD510", UserID='100001'
+[2015-08-05 15:02:39] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:02:38
+[2015-08-05 15:03:19] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:02:52
+[2015-08-05 15:26:05] Service Initialize.
+[2015-08-05 15:26:05] Write Cache: Count = 0
+[2015-08-05 15:26:25] New Session:SessionID = "BEF3F626-DAAC-45DA-8BC9-C83CA5435F3F", UserID='100001'
+[2015-08-05 15:26:25] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:26:25
+[2015-08-05 15:28:25] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-05 15:28:45] Clear Sessions Timer:Clear = "(100001,BEF3F626-DAAC-45DA-8BC9-C83CA5435F3F)"
+[2015-08-05 15:28:45] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:26:31
+[2015-08-05 15:30:55] Service Initialize.
+[2015-08-05 15:30:55] Write Cache: Count = 0
+[2015-08-05 15:30:56] New Session:SessionID = "8247CFDB-C58F-47EA-A8EE-10DC740EDA50", UserID='100001'
+[2015-08-05 15:30:56] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:30:56
+[2015-08-05 15:31:02] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-05 15:30:57
+[2015-08-07 00:28:28] Service Initialize.
+[2015-08-07 00:28:28] Write Cache: Count = 0
+[2015-08-07 00:29:53] SqlException:违反了 UNIQUE KEY 约束 'UQ__Users__00551192'。不能在对象 'dbo.Users' 中插入重复键。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   在 System.Data.SqlClient.SqlDataReader.get_MetaData()
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   在 System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   在 Core.SqlServerAccountStorage.Core.IAccountStorage.CreateUser(String name, String nickname, String password, String email, Int32 deptId, Int32 subType) 位置 c:\BegASPNET\WC\Core\Storage\SqlServerAccountStorage.cs:行号 596
+   在 Core.AccountImpl.CreateUser(String name, String nickname, String password, String email, Int32 deptId, Int32 subType) 位置 c:\BegASPNET\WC\Core\AccountImpl.cs:行号 449
+   在 Common_CH.Process() 位置 c:\BegASPNET\WC\Core.Web\CommandHandler\Common_CH.cs:行号 481
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\BegASPNET\WC\Core\SendCommandHandler.cs:行号 45
+[2015-08-07 00:30:23] New Session:SessionID = "6D8DADF9-9DE4-4680-9847-5774AC3A64DB", UserID='100002'
+[2015-08-07 00:30:23] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 00:30:23
+[2015-08-07 00:32:23] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 00:32:23] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 00:32:23
+[2015-08-07 00:35:12] Service Initialize.
+[2015-08-07 00:35:12] Write Cache: Count = 0
+[2015-08-07 11:26:07] Service Initialize.
+[2015-08-07 11:26:07] Write Cache: Count = 0
+[2015-08-07 11:35:03] New Session:SessionID = "539AD3B9-05DC-4C87-8FCC-D7931AAB8DF7", UserID='5'
+[2015-08-07 11:35:03] UpdateLastAccessTime: UserID = 5, LastAccessTime = 2015-08-07 11:35:03
+[2015-08-07 11:37:07] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 11:37:31] New Session:SessionID = "DB1B4B3E-B374-4A51-94FC-0B75F7866B80", UserID='4'
+[2015-08-07 11:37:31] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:37:31
+[2015-08-07 11:38:08] Clear Sessions Timer:Clear = "(5,539AD3B9-05DC-4C87-8FCC-D7931AAB8DF7)"
+[2015-08-07 11:38:08] UpdateLastAccessTime: UserID = 5, LastAccessTime = 2015-08-07 11:36:03
+[2015-08-07 11:40:25] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 11:40:25] Exception:用户 "管理员(manager)" 已经是您的好友！
+   在 Common_CH.Process() 位置 c:\BegASPNET\WC\Core.Web\CommandHandler\Common_CH.cs:行号 375
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\BegASPNET\WC\Core\SendCommandHandler.cs:行号 45
+[2015-08-07 11:40:25] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:40:25
+[2015-08-07 11:42:37] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:42:25
+[2015-08-07 11:42:54] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 11:44:48] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:44:45
+[2015-08-07 11:46:05] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 11:47:59] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:47:46
+[2015-08-07 11:51:03] Exception:用户 "毛杰(maojie)" 已经是您的好友！
+   在 Common_CH.Process() 位置 c:\BegASPNET\WC\Core.Web\CommandHandler\Common_CH.cs:行号 375
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\BegASPNET\WC\Core\SendCommandHandler.cs:行号 45
+[2015-08-07 11:51:03] Clear Sessions Timer:Clear = "(4,DB1B4B3E-B374-4A51-94FC-0B75F7866B80)"
+[2015-08-07 11:51:13] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:47:46
+[2015-08-07 11:51:13] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 11:51:32] Reset Session:SessionID = "DB1B4B3E-B374-4A51-94FC-0B75F7866B80", UserID='4'
+[2015-08-07 11:51:50] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:51:50
+[2015-08-07 12:02:55] Clear Sessions Timer:Clear = "(4,DB1B4B3E-B374-4A51-94FC-0B75F7866B80)"
+[2015-08-07 12:02:55] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 11:51:55
+[2015-08-07 12:02:55] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 12:05:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 12:05:55] New Session:SessionID = "75EDAEF6-C7EB-4B3B-A79E-F031FC120FFA", UserID='4'
+[2015-08-07 12:09:34] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 12:34:15] Write Cache: Count = 0
+[2015-08-07 12:35:30] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:35:09
+[2015-08-07 12:36:19] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 12:37:31] New Session:SessionID = "568CF0CC-F3F5-4B49-9A1F-6A5043AECF09", UserID='4'
+[2015-08-07 12:37:31] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:37:31
+[2015-08-07 12:38:31] Clear Sessions Timer:Clear = "(4,75EDAEF6-C7EB-4B3B-A79E-F031FC120FFA)"
+[2015-08-07 12:38:51] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 12:39:31] Clear Sessions Timer:Clear = "(4,568CF0CC-F3F5-4B49-9A1F-6A5043AECF09)"
+[2015-08-07 12:39:31] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:37:31
+[2015-08-07 12:41:11] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 12:43:31] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 12:45:51] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 12:46:39] Service Initialize.
+[2015-08-07 12:46:39] Write Cache: Count = 0
+[2015-08-07 12:47:09] New Session:SessionID = "40DDDF2F-0906-4DA7-9B7F-40BA2E014517", UserID='4'
+[2015-08-07 12:49:01] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:49:01
+[2015-08-07 12:50:17] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 12:51:19] Clear Sessions Timer:Clear = "(4,40DDDF2F-0906-4DA7-9B7F-40BA2E014517)"
+[2015-08-07 12:51:19] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:49:09
+[2015-08-07 12:51:20] Reset Session:SessionID = "40DDDF2F-0906-4DA7-9B7F-40BA2E014517", UserID='4'
+[2015-08-07 12:52:19] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:52:19
+[2015-08-07 12:54:44] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:54:42
+[2015-08-07 14:27:09] Clear Sessions Timer:Clear = "(4,40DDDF2F-0906-4DA7-9B7F-40BA2E014517)"
+[2015-08-07 14:27:09] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 12:54:42
+[2015-08-07 14:27:09] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 14:27:09] Write Cache: Count = 0
+[2015-08-07 14:27:12] Exception:用户 "毛杰(maojie)" 已经是您的好友！
+   在 Common_CH.Process() 位置 c:\BegASPNET\WC\Core.Web\CommandHandler\Common_CH.cs:行号 375
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\BegASPNET\WC\Core\SendCommandHandler.cs:行号 45
+[2015-08-07 14:30:23] Reset Session:SessionID = "40DDDF2F-0906-4DA7-9B7F-40BA2E014517", UserID='4'
+[2015-08-07 14:30:49] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 14:30:49
+[2015-08-07 14:33:20] Clear Sessions Timer:Clear = "(4,40DDDF2F-0906-4DA7-9B7F-40BA2E014517)"
+[2015-08-07 14:33:59] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 14:30:53
+[2015-08-07 14:34:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 14:39:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 14:43:34] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 14:46:35] New Session:SessionID = "18BCB82E-6903-40C2-9624-CBAA4AAFFAD6", UserID='4'
+[2015-08-07 14:48:13] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 14:51:49] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 14:52:09] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 14:52:07
+[2015-08-07 14:56:10] Clear Sessions Timer:Clear = "(4,18BCB82E-6903-40C2-9624-CBAA4AAFFAD6)"
+[2015-08-07 14:56:28] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 14:52:07
+[2015-08-07 14:56:30] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 14:59:16] Service Initialize.
+[2015-08-07 14:59:16] Write Cache: Count = 0
+[2015-08-07 15:21:15] New Session:SessionID = "25EE5396-B030-404A-9515-0D8510EAF124", UserID='4'
+[2015-08-07 15:21:44] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 15:26:16] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 15:30:03] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 15:29:59
+[2015-08-07 15:31:00] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 15:31:59] Clear Sessions Timer:Clear = "(4,25EE5396-B030-404A-9515-0D8510EAF124)"
+[2015-08-07 15:44:02] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 17:09:57] Write Cache: Count = 0
+[2015-08-07 17:10:05] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 15:29:59
+[2015-08-07 17:37:09] Reset Session:SessionID = "25EE5396-B030-404A-9515-0D8510EAF124", UserID='4'
+[2015-08-07 17:39:57] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 17:38:55
+[2015-08-07 17:40:37] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 17:40:27
+[2015-08-07 17:40:57] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 17:45:45] Clear Sessions Timer:Clear = "(4,25EE5396-B030-404A-9515-0D8510EAF124)"
+[2015-08-07 17:48:46] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-07 17:42:23
+[2015-08-07 17:49:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 17:51:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 17:53:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 17:56:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 17:58:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:00:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:03:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:05:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:07:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:09:57] Write Cache: Count = 0
+[2015-08-07 18:10:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:12:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:14:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:17:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:19:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:21:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 18:23:58] Service Initialize.
+[2015-08-07 18:23:58] Write Cache: Count = 0
+[2015-08-07 18:24:02] New Session:SessionID = "2C02586B-4CDB-41D5-A69C-F7F79A30D1BB", UserID='100002'
+[2015-08-07 18:24:02] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 18:24:02
+[2015-08-07 18:24:29] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 18:24:03
+[2015-08-07 21:37:39] Service Initialize.
+[2015-08-07 21:37:39] Write Cache: Count = 0
+[2015-08-07 21:37:43] New Session:SessionID = "F571D50F-4C85-40B2-9DC1-6A624C53E294", UserID='100002'
+[2015-08-07 21:37:43] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 21:37:43
+[2015-08-07 21:37:53] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-07 21:37:44
+[2015-08-07 21:39:00] New Session:SessionID = "239AF305-4AAE-4CAB-B45F-69B11C56D99D", UserID='100001'
+[2015-08-07 21:39:00] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 21:39:00
+[2015-08-07 21:39:43] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 21:40:03] Clear Sessions Timer:Clear = "(100002,F571D50F-4C85-40B2-9DC1-6A624C53E294)"
+[2015-08-07 21:41:04] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 21:41:04
+[2015-08-07 21:42:11] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 21:44:17] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 21:44:17
+[2015-08-07 21:45:59] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 21:59:15] Clear Sessions Timer:Clear = "(100001,239AF305-4AAE-4CAB-B45F-69B11C56D99D)"
+[2015-08-07 21:59:15] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 21:45:32
+[2015-08-07 21:59:16] Reset Session:SessionID = "239AF305-4AAE-4CAB-B45F-69B11C56D99D", UserID='100001'
+[2015-08-07 21:59:16] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 21:59:16
+[2015-08-07 22:01:29] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 22:01:35] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 22:01:30
+[2015-08-07 22:03:29] UpdateLastAccessTime: UserID = 100001, LastAccessTime = 2015-08-07 22:02:46
+[2015-08-07 22:03:42] New Session:SessionID = "AAFE654D-E864-47D0-899A-79E729F78B4A", UserID='100006'
+[2015-08-07 22:03:42] UpdateLastAccessTime: UserID = 100006, LastAccessTime = 2015-08-07 22:03:42
+[2015-08-07 22:04:05] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-07 22:05:04] UpdateLastAccessTime: UserID = 100006, LastAccessTime = 2015-08-07 22:04:46
+[2015-08-07 22:05:05] Clear Sessions Timer:Clear = "(100001,239AF305-4AAE-4CAB-B45F-69B11C56D99D)"
+[2015-08-07 22:06:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:07:06] Clear Sessions Timer:Clear = "(100006,AAFE654D-E864-47D0-899A-79E729F78B4A)"
+[2015-08-07 22:08:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:11:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:13:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:15:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:18:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:20:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:22:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:25:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:27:26] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:29:46] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:32:06] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:34:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:36:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:37:39] Write Cache: Count = 0
+[2015-08-07 22:39:07] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:41:27] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:43:47] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-07 22:46:07] All Sessions: Account Count = 0, Session Count = 0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              [2015-08-10 19:20:23] Service Initialize.
+[2015-08-10 19:20:23] Write Cache: Count = 0
+[2015-08-10 19:20:27] New Session:SessionID = "B62C5124-F144-4CCF-A24D-6E70F708689A", UserID='4'
+[2015-08-10 19:20:27] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-10 19:20:27
+[2015-08-10 19:22:27] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-10 19:22:51] UpdateLastAccessTime: UserID = 4, LastAccessTime = 2015-08-10 19:22:27
+[2015-08-10 19:23:56] Service Initialize.
+[2015-08-10 19:23:56] Write Cache: Count = 0
+[2015-08-10 19:23:57] New Session:SessionID = "73B5F9C1-F4B2-416D-9602-A7352C121F69", UserID='100002'
+[2015-08-10 19:23:57] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-10 19:23:57
+[2015-08-10 19:25:57] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-10 19:26:17] Clear Sessions Timer:Clear = "(100002,73B5F9C1-F4B2-416D-9602-A7352C121F69)"
+[2015-08-10 19:26:17] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-10 19:23:58
+[2015-08-10 19:28:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:30:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:32:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:35:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:37:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:39:57] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:42:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:44:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:46:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:49:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:51:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:53:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:56:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 19:58:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 20:00:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 20:03:18] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 20:05:38] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-10 20:07:58] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 10:28:52] Service Initialize.
+[2015-08-11 10:28:52] Write Cache: Count = 0
+[2015-08-11 10:28:57] New Session:SessionID = "80C6D698-EB0D-4D3D-B5C3-FF9021C99310", UserID='100002'
+[2015-08-11 10:28:58] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-11 10:28:58
+[2015-08-11 10:30:57] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-11 10:31:17] Clear Sessions Timer:Clear = "(100002,80C6D698-EB0D-4D3D-B5C3-FF9021C99310)"
+[2015-08-11 10:31:17] UpdateLastAccessTime: UserID = 100002, LastAccessTime = 2015-08-11 10:28:59
+[2015-08-11 10:33:17] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 10:35:37] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 11:03:28] Service Initialize.
+[2015-08-11 11:03:28] Write Cache: Count = 0
+[2015-08-11 11:03:31] New Session:SessionID = "4072F01B-0465-4C31-872D-23D874976AB2", UserID='100004'
+[2015-08-11 11:03:31] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-08-11 11:03:31
+[2015-08-11 11:05:31] All Sessions: Account Count = 1, Session Count = 1
+[2015-08-11 11:05:32] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-08-11 11:05:32
+[2015-08-11 11:07:10] UpdateLastAccessTime: UserID = 100004, LastAccessTime = 2015-08-11 11:06:32
+[2015-08-11 11:07:52] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 11:08:32] Clear Sessions Timer:Clear = "(100004,4072F01B-0465-4C31-872D-23D874976AB2)"
+[2015-08-11 11:10:12] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 11:12:32] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 11:13:33] NullReferenceException:未将对象引用设置到对象的实例。
+   在 Common_CH.Process() 位置 c:\text\WC\Core.Web\CommandHandler\Common_CH.cs:行号 337
+   在 Core.SendCommandHandler.System.Web.IHttpHandler.ProcessRequest(HttpContext context) 位置 c:\text\WC\Core\SendCommandHandler.cs:行号 45
+[2015-08-11 11:14:52] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 11:17:12] All Sessions: Account Count = 0, Session Count = 0
+[2015-08-11 19:20:00] Service Initialize.
+[2015-08-11 19:20:00] Write Cache: Count = 0
+[2015-08-11 19:20:01] New Session:SessionID = "EF6F4DD1-55FE-462A-85A6-C337D5544DCA", UserID='100005'
+[2015-08-11 19:20:01] UpdateLastAccessTime: UserID = 100005, LastAccessTime = 2015-08-11 19:20:01
