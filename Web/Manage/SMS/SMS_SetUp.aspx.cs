@@ -29,6 +29,7 @@ public partial class Manage_SMS_SMS_SetUp : ModulePages
 		{
 			if (!base.IsPostBack)
 			{
+
 				Bas_ComInfo bas_ComInfo = HttpContext.Current.Application["cominfo"] as Bas_ComInfo;
 				this.et2.Checked = Convert.ToBoolean(bas_ComInfo.et2);
 				Hashtable hashtable = (Hashtable)HttpContext.Current.Application["sms"];
