@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using System.Configuration;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -58,13 +59,13 @@ namespace Client
 			Global.ResUrl = Global.ServiceUrl + Global.AppPath;
 			if (!Global.ResUrl.EndsWith("/")) Global.ResUrl += "/";
 			Global.ResUrl += Global.ResPath;
-			
-#			if !DEBUG
-			if (File.Exists(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Native.dll")))
-			{
-				LoadPackages(SettingConf.Instance.ServiceUrl);
-			}
-#			endif
+
+//#if !DEBUG
+//			if (File.Exists(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Native.dll")))
+//			{
+//				LoadPackages(SettingConf.Instance.ServiceUrl);
+//			}
+//#endif
 
 			bool isUpdate = false;
 
