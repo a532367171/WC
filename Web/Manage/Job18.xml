@@ -8,7 +8,7 @@
   
   
   <!--<hibernate.connection.connection_string Value="Server=linjie1\lj;initial catalog=oa;uid=sa;pwd=113356965;Max Pool Size=10000;Min Pool Size=13;" />-->
-  <hibernate.connection.connection_string Value="Server=LINJIE-PC\SQLEXPRESSSB;initial catalog=oa;uid=sa;pwd=113356965;Max Pool Size=10000;Min Pool Size=13;" />
+  <hibernate.connection.connection_string Value="Server=268212.iask.in,43482;initial catalog=OA;uid=sa;pwd=905E27CF6F8CCF0CF5259F9B3DCE1F;Max Pool Size=10000;Min Pool Size=13;" />
 
 
 
